@@ -1,0 +1,8 @@
+def Class car:
+    def(self, color, BHP, Top_speed):
+        self.color=color
+        self.BHP=BHP
+        self.Top_speed= Top_Speed
+    def (_init_):
+        print("Top_model")
+Car1 = car("red",28, 120) 
