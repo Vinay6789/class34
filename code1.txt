@@ -6,3 +6,8 @@ def Class car:
     def (_init_):
         print("Top_model")
 Car1 = car("red",28, 120) 
+
+
+def add(a, b):
+    sum = a+b
+    return sum
